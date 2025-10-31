@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Bloque les redirections automatiques, empêche l'ouverture de nouveaux onglets/fenêtres.
-// @author       Précieux MEHINTO
+// @author       Précieux Felle Kpessou MEHINTO
 // @match        *://*/*
 // @tags         redirection, popup blocker, sécurité, streaming
 // @grant        none
